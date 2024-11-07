@@ -1,0 +1,6 @@
+listenAddr: ":1234"
+ID: "NodeBox"
+Nodes:
+  - ":3001"
+  - ":3002"
+  - ":3003"
